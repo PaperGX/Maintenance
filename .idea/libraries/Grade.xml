@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Grade">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Grade/out/artifacts/Grade_jar/Grade.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

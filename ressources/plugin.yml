@@ -1,0 +1,7 @@
+name: Maintenance
+version: 1.0
+author: PaperGX
+main: fr.papergx.maintenance.Main
+commands:
+  maintenance:
+    description: Plugin maintenance
